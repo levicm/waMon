@@ -1,2 +1,2 @@
-# wMon
-Water monitor
+# waMon
+Water consumption monitor
